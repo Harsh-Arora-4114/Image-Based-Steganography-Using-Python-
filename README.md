@@ -1,1 +1,1 @@
-# Image-Based-Steganography-Using-Python-
+This project implements image-based steganography using Python, enabling users to hide secret messages within image files. The encoded image appears visually identical to the original image but contains hidden information that can be extracted later.
