@@ -1,1 +1,5 @@
-This project implements image-based steganography using Python, enabling users to hide secret messages within image files. The encoded image appears visually identical to the original image but contains hidden information that can be extracted later.
+Features
+Encoding: Hide text messages within image files.
+Decoding: Retrieve hidden messages from encoded images.
+Supported Formats: Works with common image formats such as PNG and BMP (lossless formats).
+User-Friendly: Simple interface for encoding and decoding messages.
