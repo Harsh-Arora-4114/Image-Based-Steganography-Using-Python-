@@ -68,5 +68,8 @@ Decoded message: Hello, world!
 ## Contributions
 Feel free to fork this repository, submit issues, and create pull requests to improve the project.
 
+## License
+This project is licensed under the MIT License.
+
 ## Author
 Developed by Harsh Arora.
